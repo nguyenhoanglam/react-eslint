@@ -1,0 +1,6 @@
+// to avoid style files error
+*.css
+*.svg
+
+// to avoid tscongig.json error
+commitlint.config.js
